@@ -46,35 +46,91 @@ Case studies → [msulemanengineer.netlify.app/engineering](https://msulemanengi
 
 ---
 
-### 🧰 Tech stack
+### 🧰 Skills
 
-**Machine learning & AI**
+#### 🤖 AI / Machine Learning
 
-![Python](https://img.shields.io/badge/Python-131312?style=flat-square&logo=python&logoColor=E0482A)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-131312?style=flat-square&logo=scikitlearn&logoColor=E0482A)
-![pandas](https://img.shields.io/badge/pandas-131312?style=flat-square&logo=pandas&logoColor=E0482A)
-![NumPy](https://img.shields.io/badge/NumPy-131312?style=flat-square&logo=numpy&logoColor=E0482A)
-![Hugging Face](https://img.shields.io/badge/sentence--transformers-131312?style=flat-square&logo=huggingface&logoColor=E0482A)
-![FAISS](https://img.shields.io/badge/FAISS-131312?style=flat-square&logo=meta&logoColor=E0482A)
-![FastAPI](https://img.shields.io/badge/FastAPI-131312?style=flat-square&logo=fastapi&logoColor=E0482A)
-![Streamlit](https://img.shields.io/badge/Streamlit-131312?style=flat-square&logo=streamlit&logoColor=E0482A)
-![Jupyter](https://img.shields.io/badge/Jupyter-131312?style=flat-square&logo=jupyter&logoColor=E0482A)
+![Python]\([https://img.shields.io/badge/Python-131312?style=flat-square&logo=python&logoColor=E0482A](https://img.shields.io/badge/Python-131312?style=flat-square\&logo=python\&logoColor=E0482A))
 
-NLP · embeddings · vector search · RAG · recommender systems · classification · regression · clustering · model evaluation
+![SQL]\([https://img.shields.io/badge/SQL-131312?style=flat-square&logo=postgresql&logoColor=E0482A](https://img.shields.io/badge/SQL-131312?style=flat-square\&logo=postgresql\&logoColor=E0482A))
 
-**Software engineering**
+![NumPy]\([https://img.shields.io/badge/NumPy-131312?style=flat-square&logo=numpy&logoColor=E0482A](https://img.shields.io/badge/NumPy-131312?style=flat-square\&logo=numpy\&logoColor=E0482A))
+
+![pandas]\([https://img.shields.io/badge/pandas-131312?style=flat-square&logo=pandas&logoColor=E0482A](https://img.shields.io/badge/pandas-131312?style=flat-square\&logo=pandas\&logoColor=E0482A))
+
+![scikit-learn]\([https://img.shields.io/badge/scikit--learn-131312?style=flat-square&logo=scikitlearn&logoColor=E0482A](https://img.shields.io/badge/scikit--learn-131312?style=flat-square\&logo=scikitlearn\&logoColor=E0482A))
+
+![TensorFlow]\([https://img.shields.io/badge/TensorFlow-131312?style=flat-square&logo=tensorflow&logoColor=E0482A](https://img.shields.io/badge/TensorFlow-131312?style=flat-square\&logo=tensorflow\&logoColor=E0482A))
+
+![NLP]\([https://img.shields.io/badge/NLP-131312?style=flat-square&logo=huggingface&logoColor=E0482A](https://img.shields.io/badge/NLP-131312?style=flat-square\&logo=huggingface\&logoColor=E0482A))
+
+![Hugging Face]\([https://img.shields.io/badge/Hugging%20Face-131312?style=flat-square&logo=huggingface&logoColor=E0482A](https://img.shields.io/badge/Hugging%20Face-131312?style=flat-square\&logo=huggingface\&logoColor=E0482A))
+
+![Sentence Transformers]\([https://img.shields.io/badge/Sentence%20Transformers-131312?style=flat-square&logo=huggingface&logoColor=E0482A](https://img.shields.io/badge/Sentence%20Transformers-131312?style=flat-square\&logo=huggingface\&logoColor=E0482A))
+
+![RAG]\([https://img.shields.io/badge/RAG-131312?style=flat-square&logoColor=E0482A](https://img.shields.io/badge/RAG-131312?style=flat-square\&logoColor=E0482A))
+
+![FAISS]\([https://img.shields.io/badge/FAISS-131312?style=flat-square&logo=meta&logoColor=E0482A](https://img.shields.io/badge/FAISS-131312?style=flat-square\&logo=meta\&logoColor=E0482A))
+
+![LLMs]\([https://img.shields.io/badge/LLMs-131312?style=flat-square&logo=openai&logoColor=E0482A](https://img.shields.io/badge/LLMs-131312?style=flat-square\&logo=openai\&logoColor=E0482A))
+
+![OpenAI API]\([https://img.shields.io/badge/OpenAI_API-131312?style=flat-square&logo=openai&logoColor=E0482A](https://img.shields.io/badge/OpenAI_API-131312?style=flat-square\&logo=openai\&logoColor=E0482A))
+
+![Anthropic API]\([https://img.shields.io/badge/Anthropic_API-131312?style=flat-square&logo=anthropic&logoColor=E0482A](https://img.shields.io/badge/Anthropic_API-131312?style=flat-square\&logo=anthropic\&logoColor=E0482A))
+
+![Matplotlib]\([https://img.shields.io/badge/Matplotlib-131312?style=flat-square&logoColor=E0482A](https://img.shields.io/badge/Matplotlib-131312?style=flat-square\&logoColor=E0482A))
+
+![Jupyter]\([https://img.shields.io/badge/Jupyter-131312?style=flat-square&logo=jupyter&logoColor=E0482A](https://img.shields.io/badge/Jupyter-131312?style=flat-square\&logo=jupyter\&logoColor=E0482A))
+
+![FastAPI]\([https://img.shields.io/badge/FastAPI-131312?style=flat-square&logo=fastapi&logoColor=E0482A](https://img.shields.io/badge/FastAPI-131312?style=flat-square\&logo=fastapi\&logoColor=E0482A))
+
+![Streamlit]\([https://img.shields.io/badge/Streamlit-131312?style=flat-square&logo=streamlit&logoColor=E0482A](https://img.shields.io/badge/Streamlit-131312?style=flat-square\&logo=streamlit\&logoColor=E0482A))
+
+![Pydantic]\([https://img.shields.io/badge/Pydantic-131312?style=flat-square&logo=pydantic&logoColor=E0482A](https://img.shields.io/badge/Pydantic-131312?style=flat-square\&logo=pydantic\&logoColor=E0482A))
+
+![pytest]\([https://img.shields.io/badge/pytest-131312?style=flat-square&logo=pytest&logoColor=E0482A](https://img.shields.io/badge/pytest-131312?style=flat-square\&logo=pytest\&logoColor=E0482A))
+
+| Area | Skills |
+|---|---|
+| **Machine learning** | Supervised & unsupervised learning · classification · regression · clustering · feature engineering · model evaluation (accuracy, precision, recall, F1, ROC-AUC, cross-validation) · recommendation systems |
+| **NLP & generative AI** | Text preprocessing · TF-IDF · text classification · sentence embeddings · vector similarity search · retrieval-augmented generation (RAG) · prompt engineering · LLM API integration |
+| **Deep learning & more** *(ML Specialization)* | Neural networks · decision trees & tree ensembles · anomaly detection · collaborative filtering · reinforcement learning basics |
+| **Data** | Data cleaning & preprocessing · exploratory analysis · visualisation · PDF text extraction (PyMuPDF, pypdf) · model persistence (joblib, pickle) |
+| **ML engineering** | Serving models through REST APIs (FastAPI) · interactive ML apps (Streamlit) · testing ML code (pytest) · reproducible configs · honest evaluation and documented limits |
+
+#### 🏗️ Software engineering
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-131312?style=flat-square&logo=typescript&logoColor=ECEAE3)
+![JavaScript](https://img.shields.io/badge/JavaScript-131312?style=flat-square&logo=javascript&logoColor=ECEAE3)
 ![React](https://img.shields.io/badge/React-131312?style=flat-square&logo=react&logoColor=ECEAE3)
 ![Next.js](https://img.shields.io/badge/Next.js-131312?style=flat-square&logo=nextdotjs&logoColor=ECEAE3)
+![HTML5](https://img.shields.io/badge/HTML5-131312?style=flat-square&logo=html5&logoColor=ECEAE3)
+![CSS3](https://img.shields.io/badge/CSS3-131312?style=flat-square&logo=css3&logoColor=ECEAE3)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-131312?style=flat-square&logo=tailwindcss&logoColor=ECEAE3)
 ![Node.js](https://img.shields.io/badge/Node.js-131312?style=flat-square&logo=nodedotjs&logoColor=ECEAE3)
-![Express](https://img.shields.io/badge/Express-131312?style=flat-square&logo=express&logoColor=ECEAE3)
+![Express.js](https://img.shields.io/badge/Express.js-131312?style=flat-square&logo=express&logoColor=ECEAE3)
 ![MongoDB](https://img.shields.io/badge/MongoDB-131312?style=flat-square&logo=mongodb&logoColor=ECEAE3)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-131312?style=flat-square&logo=postgresql&logoColor=ECEAE3)
+![MySQL](https://img.shields.io/badge/MySQL-131312?style=flat-square&logo=mysql&logoColor=ECEAE3)
 ![Supabase](https://img.shields.io/badge/Supabase-131312?style=flat-square&logo=supabase&logoColor=ECEAE3)
+![Stripe](https://img.shields.io/badge/Stripe-131312?style=flat-square&logo=stripe&logoColor=ECEAE3)
+![Google Maps](https://img.shields.io/badge/Google_Maps-131312?style=flat-square&logo=googlemaps&logoColor=ECEAE3)
 ![Docker](https://img.shields.io/badge/Docker-131312?style=flat-square&logo=docker&logoColor=ECEAE3)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-131312?style=flat-square&logo=kubernetes&logoColor=ECEAE3)
 ![Azure](https://img.shields.io/badge/Azure-131312?style=flat-square&logo=microsoftazure&logoColor=ECEAE3)
 ![Git](https://img.shields.io/badge/Git-131312?style=flat-square&logo=git&logoColor=ECEAE3)
+![GitHub](https://img.shields.io/badge/GitHub-131312?style=flat-square&logo=github&logoColor=ECEAE3)
+![Postman](https://img.shields.io/badge/Postman-131312?style=flat-square&logo=postman&logoColor=ECEAE3)
+![Netlify](https://img.shields.io/badge/Netlify-131312?style=flat-square&logo=netlify&logoColor=ECEAE3)
+
+| Area | Skills |
+|---|---|
+| **Frontend** | React · Next.js · TypeScript · JavaScript · HTML5 · CSS3 · Tailwind CSS · responsive & accessible UI · performance optimisation |
+| **Backend** | Node.js · Express.js · Python · REST APIs · authentication & role-based access · third-party integrations |
+| **Databases** | MongoDB · PostgreSQL · MySQL · Supabase |
+| **Payments & maps** | Stripe · Moyasar · Google Maps · real-time trip tracking |
+| **Cloud & DevOps** | Docker · Kubernetes · Azure · Netlify · Git & GitHub · Postman |
+| **Foundations** | C · Java · OOP · data structures & algorithms · databases · SDLC · design patterns · debugging |
 
 ---
 
