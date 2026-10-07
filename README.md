@@ -50,45 +50,29 @@ Case studies → [msulemanengineer.netlify.app/engineering](https://msulemanengi
 
 #### 🤖 AI / Machine Learning
 
-![Python]\([https://img.shields.io/badge/Python-131312?style=flat-square&logo=python&logoColor=E0482A](https://img.shields.io/badge/Python-131312?style=flat-square\&logo=python\&logoColor=E0482A))
-
-![SQL]\([https://img.shields.io/badge/SQL-131312?style=flat-square&logo=postgresql&logoColor=E0482A](https://img.shields.io/badge/SQL-131312?style=flat-square\&logo=postgresql\&logoColor=E0482A))
-
-![NumPy]\([https://img.shields.io/badge/NumPy-131312?style=flat-square&logo=numpy&logoColor=E0482A](https://img.shields.io/badge/NumPy-131312?style=flat-square\&logo=numpy\&logoColor=E0482A))
-
-![pandas]\([https://img.shields.io/badge/pandas-131312?style=flat-square&logo=pandas&logoColor=E0482A](https://img.shields.io/badge/pandas-131312?style=flat-square\&logo=pandas\&logoColor=E0482A))
-
-![scikit-learn]\([https://img.shields.io/badge/scikit--learn-131312?style=flat-square&logo=scikitlearn&logoColor=E0482A](https://img.shields.io/badge/scikit--learn-131312?style=flat-square\&logo=scikitlearn\&logoColor=E0482A))
-
-![TensorFlow]\([https://img.shields.io/badge/TensorFlow-131312?style=flat-square&logo=tensorflow&logoColor=E0482A](https://img.shields.io/badge/TensorFlow-131312?style=flat-square\&logo=tensorflow\&logoColor=E0482A))
-
-![NLP]\([https://img.shields.io/badge/NLP-131312?style=flat-square&logo=huggingface&logoColor=E0482A](https://img.shields.io/badge/NLP-131312?style=flat-square\&logo=huggingface\&logoColor=E0482A))
-
-![Hugging Face]\([https://img.shields.io/badge/Hugging%20Face-131312?style=flat-square&logo=huggingface&logoColor=E0482A](https://img.shields.io/badge/Hugging%20Face-131312?style=flat-square\&logo=huggingface\&logoColor=E0482A))
-
-![Sentence Transformers]\([https://img.shields.io/badge/Sentence%20Transformers-131312?style=flat-square&logo=huggingface&logoColor=E0482A](https://img.shields.io/badge/Sentence%20Transformers-131312?style=flat-square\&logo=huggingface\&logoColor=E0482A))
-
-![RAG]\([https://img.shields.io/badge/RAG-131312?style=flat-square&logoColor=E0482A](https://img.shields.io/badge/RAG-131312?style=flat-square\&logoColor=E0482A))
-
-![FAISS]\([https://img.shields.io/badge/FAISS-131312?style=flat-square&logo=meta&logoColor=E0482A](https://img.shields.io/badge/FAISS-131312?style=flat-square\&logo=meta\&logoColor=E0482A))
-
-![LLMs]\([https://img.shields.io/badge/LLMs-131312?style=flat-square&logo=openai&logoColor=E0482A](https://img.shields.io/badge/LLMs-131312?style=flat-square\&logo=openai\&logoColor=E0482A))
-
-![OpenAI API]\([https://img.shields.io/badge/OpenAI_API-131312?style=flat-square&logo=openai&logoColor=E0482A](https://img.shields.io/badge/OpenAI_API-131312?style=flat-square\&logo=openai\&logoColor=E0482A))
-
-![Anthropic API]\([https://img.shields.io/badge/Anthropic_API-131312?style=flat-square&logo=anthropic&logoColor=E0482A](https://img.shields.io/badge/Anthropic_API-131312?style=flat-square\&logo=anthropic\&logoColor=E0482A))
-
-![Matplotlib]\([https://img.shields.io/badge/Matplotlib-131312?style=flat-square&logoColor=E0482A](https://img.shields.io/badge/Matplotlib-131312?style=flat-square\&logoColor=E0482A))
-
-![Jupyter]\([https://img.shields.io/badge/Jupyter-131312?style=flat-square&logo=jupyter&logoColor=E0482A](https://img.shields.io/badge/Jupyter-131312?style=flat-square\&logo=jupyter\&logoColor=E0482A))
-
-![FastAPI]\([https://img.shields.io/badge/FastAPI-131312?style=flat-square&logo=fastapi&logoColor=E0482A](https://img.shields.io/badge/FastAPI-131312?style=flat-square\&logo=fastapi\&logoColor=E0482A))
-
-![Streamlit]\([https://img.shields.io/badge/Streamlit-131312?style=flat-square&logo=streamlit&logoColor=E0482A](https://img.shields.io/badge/Streamlit-131312?style=flat-square\&logo=streamlit\&logoColor=E0482A))
-
-![Pydantic]\([https://img.shields.io/badge/Pydantic-131312?style=flat-square&logo=pydantic&logoColor=E0482A](https://img.shields.io/badge/Pydantic-131312?style=flat-square\&logo=pydantic\&logoColor=E0482A))
-
-![pytest]\([https://img.shields.io/badge/pytest-131312?style=flat-square&logo=pytest&logoColor=E0482A](https://img.shields.io/badge/pytest-131312?style=flat-square\&logo=pytest\&logoColor=E0482A))
+![Python](https://img.shields.io/badge/Python-131312?style=flat-square&logo=python&logoColor=E0482A)
+![SQL](https://img.shields.io/badge/SQL-131312?style=flat-square&logo=postgresql&logoColor=E0482A)
+![NumPy](https://img.shields.io/badge/NumPy-131312?style=flat-square&logo=numpy&logoColor=E0482A)
+![pandas](https://img.shields.io/badge/pandas-131312?style=flat-square&logo=pandas&logoColor=E0482A)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-131312?style=flat-square&logoColor=E0482A)
+![Jupyter](https://img.shields.io/badge/Jupyter-131312?style=flat-square&logo=jupyter&logoColor=E0482A)
+<br>
+![scikit-learn](https://img.shields.io/badge/scikit--learn-131312?style=flat-square&logo=scikitlearn&logoColor=E0482A)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-131312?style=flat-square&logo=tensorflow&logoColor=E0482A)
+<br>
+![NLP](https://img.shields.io/badge/NLP-131312?style=flat-square&logo=huggingface&logoColor=E0482A)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-131312?style=flat-square&logo=huggingface&logoColor=E0482A)
+![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-131312?style=flat-square&logo=huggingface&logoColor=E0482A)
+![RAG](https://img.shields.io/badge/RAG-131312?style=flat-square&logoColor=E0482A)
+![FAISS](https://img.shields.io/badge/FAISS-131312?style=flat-square&logo=meta&logoColor=E0482A)
+![LLMs](https://img.shields.io/badge/LLMs-131312?style=flat-square&logo=openai&logoColor=E0482A)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-131312?style=flat-square&logo=openai&logoColor=E0482A)
+![Anthropic API](https://img.shields.io/badge/Anthropic_API-131312?style=flat-square&logo=anthropic&logoColor=E0482A)
+<br>
+![FastAPI](https://img.shields.io/badge/FastAPI-131312?style=flat-square&logo=fastapi&logoColor=E0482A)
+![Streamlit](https://img.shields.io/badge/Streamlit-131312?style=flat-square&logo=streamlit&logoColor=E0482A)
+![Pydantic](https://img.shields.io/badge/Pydantic-131312?style=flat-square&logo=pydantic&logoColor=E0482A)
+![pytest](https://img.shields.io/badge/pytest-131312?style=flat-square&logo=pytest&logoColor=E0482A)
 
 | Area | Skills |
 |---|---|
